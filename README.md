@@ -12,12 +12,16 @@
 
 **Programming Languages**
 
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/js/)
+[![Java](https://img.shields.io/badge/-Java-%23ED8B00.svg??style=flat-square&logo=java&logoColor=WHITE)](https://www.java.com/pt-BR/)
+[![PHP](https://img.shields.io/badge/-PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
+
+
+**Markup & Styling**
+
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=ffffff)](https://www.w3schools.com/css/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/js/)
-[![PHP](https://img.shields.io/badge/-PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
-[![Java](https://img.shields.io/badge/-Java-%23ED8B00.svg??style=flat-square&logo=java&logoColor=WHITE)](https://www.java.com/pt-BR/)
-[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
 **Frameworks, Platforms and Libraries**
